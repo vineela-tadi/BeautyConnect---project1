@@ -1,0 +1,6 @@
+{
+  "name": "Beautician",
+  "description": "Premium Luxury Beauty Salon Website",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
